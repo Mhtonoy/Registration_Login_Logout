@@ -9,3 +9,9 @@
 2. JSP
 3. MySQL
 4. HTML
+
+## Design pattern
+- MVC (Model View Controller)
+
+## IDE
+-	Eclipse
